@@ -1,0 +1,158 @@
+{
+  "en": {
+    "title": "Patient Feedback",
+    "subtitle": "We value your opinion to improve our care.",
+    "next": "Next Step",
+    "back": "Back",
+    "submit": "Submit Feedback",
+    "selectLang": "Select Language",
+    "required": "Required",
+    "steps": {
+      "1": "Language",
+      "2": "Your Info",
+      "3": "Experience",
+      "4": "Comments"
+    },
+    "fields": {
+      "name": "Patient Name",
+      "age": "Age",
+      "gender": "Gender",
+      "genderOptions": {
+        "select": "Select Gender",
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      },
+      "phone": "Phone Number",
+      "department": "Department Visited",
+      "deptPlaceholder": "Select Department"
+    },
+    "ratings": {
+      "overallSatisfaction": "Overall quality of care received",
+      "staffInteraction": "Staff interaction and friendliness",
+      "waitTimes": "Wait times for appointments/procedures",
+      "facilityCleanliness": "Cleanliness and comfort of facility",
+      "treatmentQuality": "Quality of treatment and care provided",
+      "communication": "Communication and clarity of info"
+    },
+    "ratingLabels": ["Terrible", "Poor", "Average", "Good", "Excellent"],
+    "comments": {
+      "label": "Additional Comments",
+      "placeholder": "Share your suggestions or specific feedback..."
+    },
+    "success": {
+      "title": "Thank You!",
+      "message": "Your feedback has been recorded successfully."
+    },
+    "errors": {
+      "fillRequired": "Please fix the errors below.",
+      "invalidPhone": "Please enter a valid 10-digit phone number.",
+      "nameRequired": "Name is required.",
+      "deptRequired": "Please select a department."
+    }
+  },
+  "hi": {
+    "title": "रोगी प्रतिक्रिया",
+    "subtitle": "हम आपकी राय का सम्मान करते हैं।",
+    "next": "अगला चरण",
+    "back": "पीछे",
+    "submit": "प्रतिक्रिया जमा करें",
+    "selectLang": "भाषा चुनें",
+    "required": "अनिवार्य",
+    "steps": {
+      "1": "भाषा",
+      "2": "जानकारी",
+      "3": "अनुभव",
+      "4": "सुझाव"
+    },
+    "fields": {
+      "name": "रोगी का नाम",
+      "age": "उम्र",
+      "gender": "लिंग",
+      "genderOptions": {
+        "select": "लिंग चुनें",
+        "male": "पुरुष",
+        "female": "महिला",
+        "other": "अन्य"
+      },
+      "phone": "फ़ोन नंबर",
+      "department": "विभाग",
+      "deptPlaceholder": "विभाग चुनें"
+    },
+    "ratings": {
+      "overallSatisfaction": "देखभाल की समग्र गुणवत्ता",
+      "staffInteraction": "कर्मचारियों का व्यवहार",
+      "waitTimes": "प्रतीक्षा समय",
+      "facilityCleanliness": "सफाई और स्वच्छता",
+      "treatmentQuality": "इलाज की गुणवत्ता",
+      "communication": "बातचीत और स्पष्टता"
+    },
+    "ratingLabels": ["बहुत खराब", "खराब", "औसत", "अच्छा", "उत्कृष्ट"],
+    "comments": {
+      "label": "अतिरिक्त टिप्पणी",
+      "placeholder": "अपने सुझाव यहाँ लिखें..."
+    },
+    "success": {
+      "title": "धन्यवाद!",
+      "message": "आपकी प्रतिक्रिया सफलतापूर्वक दर्ज कर ली गई है।"
+    },
+    "errors": {
+      "fillRequired": "कृपया नीचे दी गई त्रुटियों को सुधारें।",
+      "invalidPhone": "कृपया वैध फ़ोन नंबर दर्ज करें।",
+      "nameRequired": "नाम अनिवार्य है।",
+      "deptRequired": "कृपया एक विभाग चुनें।"
+    }
+  },
+  "as": {
+    "title": "ৰোগীৰ মতামত",
+    "subtitle": "আমি আপোনাৰ মতামতক সন্মান জনাওঁ।",
+    "next": "পৰৱৰ্তী",
+    "back": "উভতি যাওক",
+    "submit": "জমা দিয়ক",
+    "selectLang": "ভাষা নিৰ্বাচন",
+    "required": "প্ৰয়োজনীয়",
+    "steps": {
+      "1": "ভাষা",
+      "2": "তথ্য",
+      "3": "অভিজ্ঞতা",
+      "4": "মন্তব্য"
+    },
+    "fields": {
+      "name": "ৰোগীৰ নাম",
+      "age": "বয়স",
+      "gender": "লিংগ",
+      "genderOptions": {
+        "select": "লিংগ নিৰ্বাচন",
+        "male": "পুৰুষ",
+        "female": "মহিলা",
+        "other": "অন্যান্য"
+      },
+      "phone": "ফোন নম্বৰ",
+      "department": "বিভাগ",
+      "deptPlaceholder": "বিভাগ বাছনি কৰক"
+    },
+    "ratings": {
+      "overallSatisfaction": "সামগ্ৰিক সেৱাৰ মান",
+      "staffInteraction": "কৰ্মচাৰীৰ আচৰণ",
+      "waitTimes": "অপেক্ষাৰ সময়",
+      "facilityCleanliness": "পৰিষ্কাৰ-পৰিচ্ছন্নতা",
+      "treatmentQuality": "চিকিৎসাৰ মান",
+      "communication": "যোগাযোগ আৰু স্পষ্টতা"
+    },
+    "ratingLabels": ["অতি বেয়া", "বেয়া", "গড়", "ভাল", "অতি উত্তম"],
+    "comments": {
+      "label": "অতিৰিক্ত মন্তব্য",
+      "placeholder": "আপোনাৰ পৰামৰ্শ ইয়াত লিখক..."
+    },
+    "success": {
+      "title": "ধন্যবাদ!",
+      "message": "আপোনাৰ মতামত সফলভাৱে গ্ৰহণ কৰা হৈছে।"
+    },
+    "errors": {
+      "fillRequired": "অনুগ্ৰহ কৰি ভুলবোৰ শুধৰাওক।",
+      "invalidPhone": "বৈধ ফোন নম্বৰ দিয়ক।",
+      "nameRequired": "নাম প্ৰয়োজনীয়।",
+      "deptRequired": "অনুগ্ৰহ কৰি এটা বিভাগ বাছনি কৰক।"
+    }
+  }
+}
